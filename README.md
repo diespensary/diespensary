@@ -1,4 +1,3 @@
-# README
 <h1 align="center">Hi 👋, I'm Алексей</h1>
 <h3 align="center">I am studying at Samara University with a degree in Applied Mathematics and Computer Science</h3>
 
